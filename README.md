@@ -85,6 +85,7 @@ __Future Enhancements__
 •	Digital Payment Support
 
 __Output__
+
 === Jewellery Store Management System ===
 Enter Customer ID: 1
 Enter Customer Name: Anu
