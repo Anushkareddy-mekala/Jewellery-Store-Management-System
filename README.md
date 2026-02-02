@@ -87,11 +87,16 @@ __Future Enhancements__
 __Output__
 
 === Jewellery Store Management System ===
+
 Enter Customer ID: 1
+
 Enter Customer Name: Anu
+
 Enter Phone Number: 8765432109
 
+
 Select Jewellery Type
+
 1. Gold
 2. Silver
 1
