@@ -99,28 +99,47 @@ Select Jewellery Type
 
 1. Gold
 2. Silver
+
 1
+
 Enter Item ID: 3
+
 Enter Item Name: Chain
+
 Enter Weight (grams): 7
+
 Enter Price per gram: 10000
 
 ----- BILL -----
+
 Customer Name : Anu
+
 Item Name     : Chain
+
 Base Price    :  ₹ 70000.0
+
 GST (3%)      :  ₹ 2100.0
+
 Final Amount  : ₹ 72100.0
 
 Enter amount paid by customer: 75000
+
 ✅ Payment successful
+
 Change to return: ₹ 2900.0
 
 --- Remaining Notes ---
+
 ₹2000 : 9
+
 ₹500  : 19
+
 ₹200  : 28
+
 ₹100  : 10
+
 ₹50   : 10
+
 ₹20   : 200
+
 ₹10   : 200
