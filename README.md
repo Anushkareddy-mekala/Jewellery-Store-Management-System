@@ -1,7 +1,7 @@
 # Jewellery-Store-Management-System
 Jewellery Store Management System is a Java console application that manages gold and silver jewellery items, customer details, bill generation with GST and discounts, payment processing, and cash note management. It uses OOP concepts like inheritance, encapsulation, and real-time billing features. 
 
-Features
+__Features__
 •	Customer information management
 •	Gold and Silver jewellery selection
 •	Automatic price calculation based on weight
@@ -12,19 +12,19 @@ Features
 •	Change return using different currency denominations
 •	Console-based interactive menu
 
-Technologies Used
+__Technologies Used__
 •	Java
 •	OOP Concepts
 •	Scanner Class for Input
 •	Console Application
 
-OOP Concepts Implemented
+__OOP Concepts Implemented__
 •	Encapsulation – Private variables with getter methods
 •	Inheritance – GoldItem and SilverItem inherit from JewelleryItem
 •	Polymorphism – Method overriding behavior via parent reference
 •	Abstraction (Basic Level) – Logical separation of billing and cash handling
 
-Class Description
+__Class Description__
 1. JewelleryItem
 •	Parent class
 •	Stores item ID, name, type, weight, and price per gram
@@ -50,7 +50,7 @@ Class Description
 •	Entry point of the application
 •	Handles user input and overall flow
 
-How It Works
+__How It Works__
 1.	User enters customer details
 2.	User selects jewellery type
 3.	User enters item details and weight
@@ -61,7 +61,7 @@ How It Works
 8.	System calculates change
 9.	CashManager returns notes
 
-Sample Flow
+__Sample Flow__
 Enter Customer ID
 Enter Customer Name
 Enter Phone Number
@@ -71,20 +71,20 @@ Bill Generated
 Enter Paid Amount
 Change Returned
 
-Advantages
+__Advantages__
 •	Easy to use
 •	Demonstrates strong OOP basics
 •	Useful for beginner Java learners
 •	Real-world application example
 
-Future Enhancements
+__Future Enhancements__
 •	GUI Interface
 •	Database Integration
 •	Multiple Items in One Bill
 •	Admin Login System
 •	Digital Payment Support
 
-Output
+__Output__
 === Jewellery Store Management System ===
 Enter Customer ID: 1
 Enter Customer Name: Anu
