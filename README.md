@@ -99,7 +99,9 @@ Select Jewellery Type
 
 1. Gold
 2. Silver
-1
+
+   1
+
 Enter Item ID: 3
 
 Enter Item Name: Chain
